@@ -1,6 +1,8 @@
+[Iris AI on Value-Based Strategies](https://the.iris.ai/map/81291507-1275-4902-94f1-15e72406cc4f)
+
 [NY Times 2013 Oscar Contenders](http://www.nytimes.com/interactive/2013/02/20/movies/among-the-oscar-contenders-a-host-of-connections.html?_r=1&)
 
-### Puntambekar, S. & H&ouml;bscher, R. (2005). Tools for scaffolding students in a complex learning environment: What have we gained and what have we missed? *Educational Pyschologist 40*(1), 1-12.
+### Puntambekar, S. & H&uuml;bscher, R. (2005). Tools for scaffolding students in a complex learning environment: What have we gained and what have we missed? *Educational Pyschologist 40*(1), 1-12.
 
 #### Overview
 Scaffolding is a theory of teaching and learning. The teaching theory is the teacher's understanding of the problem at hand and how it can be approached and solved. The learning theory is the teacher's understanding of the student's skills and progress. The teacher uses these two theories to calibrate her support to keep the student in the "zone of proximal development". Moreover, the support is more inclusive than a purely academic model would capture. It includes perceptual, cognitive and affective domains.
