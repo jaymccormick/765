@@ -10,19 +10,38 @@
 Taxonomy:
 - Data & View Specification
   - Visualize
+    - expressiveness of formal grammars; but also "steep learning curve"
   - Filter
+    - "dynamic query widgets", e.g. radio buttons, sliders, categories
+    - "incremental exploration": is that just 'guess-and-check'?
   - Sort
+    - "The goal is to reveal underlying structure (e.g. clustering) within the data."
+    - **seriation**: arranging in order by size
   - Derive
-- View Manipulation
+    - include tools for deriving new data based on input data to continue the exploration and analysis process
+- View Manipulation: patterns within patterns and across data
   - Select
+    - limited; don't have the gaze, gestures available (but maybe AR?)
   - Navigate
+    - Overview, Zoom and Filter, Details;
+    - Search, Show Context, Expand on Demand
+    - "How analysts navigate a visualization is in part determined by where they start"
+    - 'Linked navigation' that manipulates multiple views simultaneously
   - Coordinate
+    - easier to integrate data across views than to add data to a single view
   - Organize
-- Process & Provenance
+    - managing views, legends, and interactive controls
+- Process & Provenance: "iterative data exploration and interpretation"
   - Record
+    - interaction histories
+    - pattern of exploration
   - Annotate
+    - if not "data-aware", become meaningless
   - Share
   - Guide
+    - onboarding
+    - linking expert creators to novice audience
+    - **tacit tutorial** e.g. NY Times
 
 ### Puntambekar, S. & H&uuml;bscher, R. (2005). Tools for scaffolding students in a complex learning environment: What have we gained and what have we missed? *Educational Pyschologist 40*(1), 1-12.
 
