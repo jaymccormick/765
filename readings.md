@@ -1,3 +1,22 @@
+### Ochsner, A. (2015). Lessons learned with girls, games and design. *GenderIT '15*, 24-31.
+
+#### Overview
+Interesting early reference to research that gaming can improve "computational thinking". Since the reference seemed to indicate a general benefit to gaming of any kind, I read the cited article and found a narrower scope:
+> At their most base level, games are systems of rules in which players operate on  representations. In a computer game, those rules are generally executed and strictly enforced by the game itself. Board games and other table top games, on the other hand, have no such inherent game rule management; it becomes incumbent upon the players themselves to know and execute the rules of the game. The players are doing the computation that would normally be the purview of the computer or console in a video game.[1]
+
+So it is the specific set of table-top games with complex rules and no rule management structure that encourages the development of computational thinking, not games in general.
+
+<hr>
+[1] Berland, M., & Lee, V. R. (2001). Collaborative strategic board games as a site for distributed computational thinking. *International Journal of Game-Based Learning 1*(2), 65-81.
+
+#### Hits
+- "pink games" (traditionally, perhaps stereotypically) oriented to girls' interests and "purple games" (broader view of what appeals to girls); market research as a pragmatic basis versus designing for what would interest girls if they had the support and encouragement to play games; lack of marketing and retail support & the "happy accident" when games do appeal to girls
+- mastery tends not to interest girls; girls like relationship- and experience-oriented games; narrative is important to girls
+- TechSavvy girls modified and played Sims 2, developing IT fluencies and experimenting with socially acceptable and powerful identities, and engaging in "collaborative problem solving" through a distinctive approach that blended "technical skills with emotional intelligence". but in the Rapunsel game (middle school girls used Java to program characters to dance), researchers "felt that focusing on social engagement tended to draw attention away from the programming activities." Rapunsel did increase self-efficacy and confidence among the girls
+
+#### Misses
+- overall this was a good article; the one miss i discussed above, which is the imprecise discussion of the benefit of games (strategy-based table top games with complex rules encourage the development of computational thinking; games in general do not)
+
 ### Kultima, A. & Stenros, J. (2010). Designing games for everyone: The expanded game experience model. In *Proceedings of the International Academic Conference on the Future of Game Design and Technology*, Futureplay '10, pages 66-73, New York, NY, US.
 
 #### Overview
