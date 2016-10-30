@@ -1,5 +1,24 @@
+### Kultima, A. (2009). Casual game design values. In *Proceedings of the 13th International MindTrek Conference: Everyday Life in the Ubiquitous Era*, MindTrek '09, pages 58-65, New York, NY, USA.
 
+#### Overview
+Casual games are higher in: Acceptability (social norm conformity), Accessibility (cognitive, physical, economic), Simplicity (in game rules and environment; also, automating processes like saving) and Flexibility (change devices, locations, attention level)
+20% AGR in casual games; 51% of 200MM online players are women;
+casual game design and "hardcore" or "traditional" games "form a valence"
+- in graph theory: the number of edges incident to a vertex (with loops counted 2x)
+- in psychology: the attractiveness (positive valence) or aversiveness (negative valence) of an event. (ambivalence thus can be seen as a conflict between positive and negative valence carriers)
+- in linguistics: the number of arguments controlled by a verbal predicate
+  - It rains. 0 valence
+  - He sleeps. 1 valence.
+  - He gave her a flower. 3 valence.
+- in chemistry: the measure of an element's combining power with other elements when it forms chemical compounds or molecules
 
+#### Hits
+- game design is "second-order design": game rules are designed directly, and the game experience is a result of game rules. game rules do not have entirely predictable effects, so the design of a game is not an exercise in logical but rather in normative assessments and decisions.
+- "any simple, small, or easy game can be categorized as 'casual'". true, and good to recognize early in the paper to support the inquiry: what, more specifically, characterizes a category of games that feels eminently recognizable.
+
+#### Misses
+- mis-titled subsection (3.3.4 should be Flexibility, not Accessibility (which is discussed in a prior section))
+- "The rise of casual game industries indicates a transformation in games cultures..." what is that culture, and what is the change?
 
 ### Crabtree, A. & Tolmie, P. (2016). A day in the life of thinkgs in the home. In *Proceedingsof the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing*, CSCW '16, pages 1738-1750, New York, NY, USA. ACM.
 
