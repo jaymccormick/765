@@ -1,16 +1,49 @@
+### Kultima, A. & Stenros, J. (2010). Designing games for everyone: The expanded game experience model. In *Proceedings of the International Academic Conference on the Future of Game Design and Technology*, Futureplay '10, pages 66-73, New York, NY, US.
+
+#### Overview
+Interesting to think the context of game play. My experience has been that social games are like Mario Kart, and intensive games are like Halo 2 and 3, and Grand Theft Auto: Vice City. The former is not fun without other players; the latter are fun independent of social play. We would pass the controller back and forth in the intensive games, playing through a "life" or a level.
+The EGE is intended as a design heuristic, a simplification of the gaming experience to support the game design process.
+Casual games, since they are not immersive, bring the external environment into the game-design realm. So casual games designed solely to have easy gameplay and general appeal might miss the context of play that will determine the success (adoption) of the game. Thus designers of casual games must understand the lifecycle of game play as beginning and ending outside of the game, and as bringing the outside world into the game world throughout game play.
+
+Adds additional levels to a gaming taxonomy:
+- Experience
+  - Situation
+    - Worldview
+      - User State
+        - Resources
+        - Motives
+- Behavior
+  - Activities
+- Game Design
+  - Affordances
+    - Receivables
+    - Possibilities
+  - Thresholds
+    - Restrictions
+    - Requirements
+
+#### Hits
+- "very few users actually fit the user profiles drawn from the player data they generate." That is, designing for the "casual gamer" creates an exclusive category where there is not one; gamers play casual and intensive games, and are not exclusively one or the other.
+- "The notions of challenge, immersion, flow and meaningful actions are well established, but they may not be enough" to continue the design progress of the past thirty years.
+- game researchers "often examine games through their own play experiences and through the eyes of enthusiastic gamers and game fans". This is a bias that could *maintain* the state of game design, but will struggle to improve it.
+
+#### Misses
+- the idea that design is "second-order", which appeared in Kultima's other article, is interesting. but it's also imprecise. there's nothing tenuous about a second-order condition's relation to the underlying model. the derivative of a function is as certain as the function itself. i think "stochastic" is a better term. I don't know what makes game design any more stochastic than design in other systems; it is an interesting effect to observe, though.
+- language in general: what does it mean for a game experience to be "versatile", "fluent", or "powerful"?
+
 ### Kultima, A. (2009). Casual game design values. In *Proceedings of the 13th International MindTrek Conference: Everyday Life in the Ubiquitous Era*, MindTrek '09, pages 58-65, New York, NY, USA.
 
 #### Overview
 Casual games are higher in: Acceptability (social norm conformity), Accessibility (cognitive, physical, economic), Simplicity (in game rules and environment; also, automating processes like saving) and Flexibility (change devices, locations, attention level)
 20% AGR in casual games; 51% of 200MM online players are women;
 casual game design and "hardcore" or "traditional" games "form a valence"
-- in graph theory: the number of edges incident to a vertex (with loops counted 2x)
+- in **graph theory**: the number of edges incident to a vertex (with loops counted 2x)
 - in psychology: the attractiveness (positive valence) or aversiveness (negative valence) of an event. (ambivalence thus can be seen as a conflict between positive and negative valence carriers)
-- in linguistics: the number of arguments controlled by a verbal predicate
+- in **linguistics**: the number of arguments controlled by a verbal predicate
   - It rains. 0 valence
   - He sleeps. 1 valence.
   - He gave her a flower. 3 valence.
-- in chemistry: the measure of an element's combining power with other elements when it forms chemical compounds or molecules
+- in **chemistry**: the measure of an element's combining power with other elements when it forms chemical compounds or molecules
 
 #### Hits
 - game design is "second-order design": game rules are designed directly, and the game experience is a result of game rules. game rules do not have entirely predictable effects, so the design of a game is not an exercise in logical but rather in normative assessments and decisions.
