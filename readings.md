@@ -6,6 +6,10 @@
 
 [NY Times 2013 Oscar Contenders](http://www.nytimes.com/interactive/2013/02/20/movies/among-the-oscar-contenders-a-host-of-connections.html?_r=1&)
 
+[D3](https://d3js.org)
+
+[Tensor Flow Data Flow Graph](https://www.tensorflow.org/)
+
 ### Overview
 Taxonomy:
 - Data & View Specification
@@ -42,6 +46,20 @@ Taxonomy:
     - onboarding
     - linking expert creators to novice audience
     - **tacit tutorial** e.g. NY Times
+
+#### Hits
+
+- Generally good hierarchy of actions and related affordances for designing and developing a visualization interface
+- nice overview of different visualization technologies. a challenge in describing something dynamic in a static medium (describing dynamic visualization using text) is maintaining clarity without excessive detail. generally the article succeeds at this.
+- lays out the interaction steps to think about in designing a visualization platform.
+- navigation as Overview->Filter and Zoom->Details-on-demand
+- thinking about coordinating multiple views as easier to comprehend than adding variables to a single view
+
+#### Misses
+
+- dry. i don't think anyone else read the article (based on class participation before we discussed this article, during the discussion, and the discussion after it. participation went from high to zero back to high.)
+- too much undefined terminology. maybe for the audience it is written for, that is good. and adding definitions and explanations for each term (like data-flow graph, or "operator") would have added at least a few pages to the article.
+- no discussion of heuristics; i think visualizations take advantage of humans' powerful visual pattern recognition, and should build in indicators of statistical significance to guide users away from mistaken interpretations of data
 
 ### Puntambekar, S. & H&uuml;bscher, R. (2005). Tools for scaffolding students in a complex learning environment: What have we gained and what have we missed? *Educational Pyschologist 40*(1), 1-12.
 
