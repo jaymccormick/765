@@ -1,4 +1,24 @@
-### Heer, J. Schneiderman, B. (2012). Interactive dynamics for visual analysis: A taxonomy of tools that support the fluent and flexible use of visualizations. *acmqueue 10*(2), 1-26.
+
+
+
+### Crabtree, A. & Tolmie, P. (2016). A day in the life of thinkgs in the home. In *Proceedingsof the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing*, CSCW '16, pages 1738-1750, New York, NY, USA. ACM.
+
+#### Overview
+The authors' endeavor is "[O]pening up the methodical assemblage of things"
+Based on "observations in 2 ostensibly middle-class UK homes" - ostensibly: evidently, professed (rather than demonstrably true). are they not middle-class?
+Method: Counted the interactions with things - anything and everything, from tea kettles to iPads to couches - over several 3-hour periods
+Summary: One can see how events flow in a space by observing the "methodical assemblage of things"; seeing a use pattern across IoT devices will be difficult for machines because there is no intrinsic logical connection among devices' use
+
+#### Hits
+- the Internet of Things is "marked largely by the design of *individual things*", resulting in a "*fragemented ecology*" that ignores in its design framework the methodical assemblage of things.
+- designing for the home means (or should mean) designing for methodical assemblages of things from multiple categories
+- detecting the unique, local methodical assemblage of things is a challenge for algorithms, e.g. machine learning
+
+#### Misses
+- too much *italics* (one randomly picked page had 9 instances of *italics*)
+- perplexing language use ("The study reported here is rooted in a long tradition of empirical studies.... [which] are 'incommensurate and asymmetrically alternate' to theoretical treatment of whatever colour, shade or hue.")
+
+### Heer, J. & Schneiderman, B. (2012). Interactive dynamics for visual analysis: A taxonomy of tools that support the fluent and flexible use of visualizations. *Queue* 10(2): 30:30 - 30:55.
 
 ### Resources
 
@@ -10,7 +30,7 @@
 
 [Tensor Flow Data Flow Graph](https://www.tensorflow.org/)
 
-### Overview
+#### Overview
 Taxonomy:
 - Data & View Specification
   - Visualize
@@ -48,7 +68,6 @@ Taxonomy:
     - **tacit tutorial** e.g. NY Times
 
 #### Hits
-
 - Generally good hierarchy of actions and related affordances for designing and developing a visualization interface
 - nice overview of different visualization technologies. a challenge in describing something dynamic in a static medium (describing dynamic visualization using text) is maintaining clarity without excessive detail. generally the article succeeds at this.
 - lays out the interaction steps to think about in designing a visualization platform.
@@ -56,7 +75,6 @@ Taxonomy:
 - thinking about coordinating multiple views as easier to comprehend than adding variables to a single view
 
 #### Misses
-
 - dry. i don't think anyone else read the article (based on class participation before we discussed this article, during the discussion, and the discussion after it. participation went from high to zero back to high.)
 - too much undefined terminology. maybe for the audience it is written for, that is good. and adding definitions and explanations for each term (like data-flow graph, or "operator") would have added at least a few pages to the article.
 - no discussion of heuristics; i think visualizations take advantage of humans' powerful visual pattern recognition, and should build in indicators of statistical significance to guide users away from mistaken interpretations of data
@@ -76,14 +94,12 @@ Key Features:
 - Fading. When the learner has internalized the responsibility of solving the problem
 
 #### Hits
-
 - In general, challenging the notion that human-to-human interaction can be replicated with human-computer interaction, and discussing the limitations of an HCI implementation of scaffolding
 - The discussion of the limits (really, the lack) of fading in HCI scaffolds: "fading is not automatic but has to be explicitly initiated by the student"
 - The idea that fading in the context of scaffolding software could mean removing the software tool altogether.
 - Peer support is not the same as tutor support. Peer interactions may encourage exploration and performance and motivate learners. Expert-novice interactions entail an assessment of the learner's skills and tailored support (interactions absent in peer interactions)
 
 #### Misses
-
 - I would like to have seen more of a design proposal for a solution to the problem of (1) the difficulty of scaling scaffolding beyond 1 teacher and one learner and (2) the limitations of scaffolding as implemented in an HCI model
 - "[E]ffective scaffolding needs to be distributed, integrated and multiplied": yes, true (although it's unclear what "distributed", "integrated" and "multiplied" means here). But *how* can we do that? Or, what sources have attempted or described the path to doing that?
 
@@ -99,12 +115,10 @@ What struck me is the lack of human-centered design principles. The research que
 Then the researchers advise that without "mediators", people who can read, have phones, and have a basic understanding of technology and social networks, this social network would not have worked. Tellingly, the section devoted to the importance of mediator participation is entitled "Incentivization of Mediators Crucial". Even with the mediators, it's not clear that the social network can actually be called a "success" - mediators were responsible for signing up farmers to the social network, but neither the mediators nor farmers could articulate what exactly they received by joining this network. One mediator, who had signed up 35 farmers, "could not tell the farmers what the system was for as he did not know himself." Further, incentives are hard to get right, or it's hard to discern the effects of incentives from what they enable. Salaries partly are incentives to work; they also enable work, providing enough resources for a person not to have to do something else. In any case, there's more to a person's motivation than the "incentive" she receives.
 
 #### Hits
-
 - There is no current good solution for passwords for illiterate and low-literacy users. Whatever one might think of this project, the insight is an important one. Imagine low-literacy users trying to access basic information about themselves, like accessing government aid, or finding out health information.
 - "[T]echnological interventions will be more effective if they take into consideration the underlying infrastructures such as intermediation that are embedded in the community." I think this means, Think of communities you are designing for, rather than individuals, because individuals receive support from their communities.
 
 #### Misses
-
 - The idea of informed consent from illiterate farmers about participating in a social network using mobile phones.
 - Asking the farmers what they wanted (pictures of gods and actors; religious songs) as a way to "iterate" the next version of the network. Since when did asking users for specific product recommendations yield product features that are innovative, or even actually helpful?
 
@@ -116,13 +130,11 @@ Industrial design students in South Korea assert that the fundamental design fla
 The students built in a scoring process - a combination of ripening time and votes from other users on a post's "maturity". They intended the scoring process "to motivate users to earn higher points, and an increase in score would give positive feedback, resulting in a a sense of achievement in the social media context."
 
 #### Hits
-
 - The premise is interesting. Why do we carelessly share personal information? Why do we heedlessly interact with others online? Perhaps some sort of delay is helpful.
 - Interesting user insights: not interacting with her phone was "40 minutes of endless pain." And "I've tried to get away from smart phones and computers, and focused on reading books. But in 10 minutes, my hand got impatient to touch my phone!"
 - The recognition that social media "provide[s] purposeless connectedness and the hedonic pleasures of gossip, not... the pursuit of.. self-reflection. Will users' desire to use social media" fall when the platform encourages self-reflection?
 
 #### Misses
-
 - The assumption that social media can, and should, encourage personal growth: "It is important that social media encourage users to express their inner thoughts and emotions if they are to collect meaningful resources for self-reflection, because it is not always guaranteed that users' activities will create meaningful resources."
 
 ### Gentner, D. & Nielson, J. (1996). The Anti-Mac Interface. *Communications of the ACM 39*(8) 71-82.
@@ -131,7 +143,6 @@ The students built in a scoring process - a combination of ripening time and vot
 Is the Windows-Icons-Menu-Pointer model the final innovation in GUIs? Gertner and Nielson hope not - but in the 20 years since this article, I don't see that much has changed.
 
 #### Hits
-
 - The Mac interface is "good enough to be criticized". I think that's a useful way to think about criticism, that we're only criticizing what is good and can become better. We aren't spending time on interfaces that aren't even good to begin with.
 - Metaphors are not as helpful as they seem. Cars were originally controlled by reins, like horses, but that metaphor constrained the design without helping drivers. Maybe metaphors are there most helpful when we are working with novel concepts. Learning and adaptation build new mental structures that are better constructs than the original metaphor. Gentner and Nielson strain their analysis here, describing metaphors in terms of mappings between the target and source domain.
 - "The dark side of direct manipulation is that you have to manipulate everything."
@@ -139,5 +150,4 @@ Is the Windows-Icons-Menu-Pointer model the final innovation in GUIs? Gertner an
 - They make a general point about how much rote work GUIs saddle us with.
 
 #### Misses
-
 - Although their observation that we lack the power of language, and instead must communicate primitively by pointing and clicking, rings true, their design solution - that we should spend as many years mastering interactions with computers as we do with other humans (20, in their estimation) - is absurd and contradicted by their other points that computers should be more responsive to our needs. I also doubt that computers could be programmed with language capability that would evolve with our own. (Until A.I. enables that, at which point there will be other issues to deal with than using natural language to manipulate files on our PCs).
