@@ -1,6 +1,7 @@
 ### Deterding, S., Dixon, D., Khaled, R., and Nacke, L. (2001) From dame design elements to gamefulness: Defining "gamification". In *Proceeedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments*, MindTrek '11, pages 9-15, New York, NY, USA.
 
 #### Overview
+I really like articles like this, which survey the thinking on a concept and propose a different way of understanding what the concept is.
 - Apparently "began" with Foursquare
 - Premise of gamification: (1) ubiquity of videogames in everyday life; (2) video games elicit intense engagement, and so using elements of games should likewise elicit strong engagement
 - Games for "serious purposes" date back thousands of years to military training; they became common in business and education since the 1950s; digitization has increased the pace and extent
@@ -8,10 +9,23 @@
   - AR overlay
   - location-based
   - alternate-reality games that add meaning, depth, and interaction to the real world
+- **gamification**: "the use of game design elements in non-game contexts"
+  - distinct from playfulness, playful interaction, and playful design
 
 #### Hits
+- "gameful design" uses "gamefulness" (the experiential and behavioral quality) and "gameful interaction" (artifacts that afford gamefulness)
+- at what point does an artificat have enough "gameful" elements that it is a game?
+  - what are "gameful elements" anyway?
+    - interface design patterns
+    - game design patterns or game mechanics
+    - design principles, heuristics or lenses
+    - conceptual models of game design units
+    - game design methods and design processes
+- "designers work with mechanics to create aesthetics, whereas players experience aesthetics, and in so doing, infer knowledge about mechanics"
+- is a "meta-game" like an achievement system a "gameful element"? no, it is a full-fledged game
 
 #### Misses
+- the "Ludification of Culture" visual that "situated" gameful design in society seemed contrived. remarking that "media scholars observe a 'ludification of culture'" the authors offer no other information on that phenomenon. how has it happened? to what extent? is it good? perhaps those are questions for other papers. but some more context and analysis, even an extra sentence, would have gone a long way
 
 ### Scheiter, K. & Gerjets, P. (2007). Learner control in hypermedia environments. *Educational Psychology Review 19*(3), 285-307.
 
