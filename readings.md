@@ -1,3 +1,18 @@
+### Deterding, S., Dixon, D., Khaled, R., and Nacke, L. (2001) From dame design elements to gamefulness: Defining "gamification". In *Proceeedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments*, MindTrek '11, pages 9-15, New York, NY, USA.
+
+#### Overview
+- Apparently "began" with Foursquare
+- Premise of gamification: (1) ubiquity of videogames in everyday life; (2) video games elicit intense engagement, and so using elements of games should likewise elicit strong engagement
+- Games for "serious purposes" date back thousands of years to military training; they became common in business and education since the 1950s; digitization has increased the pace and extent
+- **pervasive games**: expand play spatially, temporally or socially
+  - AR overlay
+  - location-based
+  - alternate-reality games that add meaning, depth, and interaction to the real world
+
+#### Hits
+
+#### Misses
+
 ### Scheiter, K. & Gerjets, P. (2007). Learner control in hypermedia environments. *Educational Psychology Review 19*(3), 285-307.
 
 #### Overview
