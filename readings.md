@@ -1,6 +1,17 @@
 ### Scheiter, K. & Gerjets, P. (2007). Learner control in hypermedia environments. *Educational Psychology Review 19*(3), 285-307.
 
 #### Overview
+Nicely discusses the promise and shortcoming of hypermedia environments. I suppose that as a hypothetical matter, if one could design a system so that learning occurred for every user, that system would have to be better than the most skilled teacher. Otherwise skilled teachers would have developed systems (analog systems, before the advent of digital ones) that accomplished this. That reasoning feels tautological, but still I think the issue is that there's nothing so different about a digital interface - in its current form - that obviates the challenges of learning (and teaching). One counterexample is the availability of alternative explanations and additional examples on digital interfaces is much higher than in analog ones.
+
+Another issue the authors observe is "most of the current research lacks a clear conceptual foundation that allows deriving testable hypotheses on how effective hypermedia should be designed." Hypermedia design without an "instruction approach... and the cognitive structures, processes and resources necessary to benefit from this approach" produces findings with little general application.
+
+#### Hits
+- schema theory as an explanation for the benefit that learners with prior knowledge obtain from hypermedia, whereas learners without prior knowledge struggle: "individuals with extensive prior knowledge are better able to invoke schema-driven selections, wherein knowledge needs are accurately identified a priori and selections made accordingly.... Those with limited prior knowledge... are unable to establish information needs in advance"
+- less studied but "promising": affect of "complex epistemological beliefs" on hypermedia learning success. more complex epistemological beliefs (one can improve one's knowledge, knowledge is intricate and interrelated, learning is effortful) extract more information and retain it more completely than learners with simple epistemological beliefs
+- the importance of metacognition: learners using hypermedia must "be able to monitor their own comprehension of the information presented..., select appropriate strategies for correcting any misconceptions, and develop information-seeking strategies that facilitate integrating... and synthesizing information".
+
+#### Misses
+- the section on epistemological beliefs was interesting, but it lacked a definition of complex epistemological beliefs, so i was left to think of complex epistemological beliefs as "not simple epistemological", e.g. one dimension of simple epistemological beliefs is "knowledge exists as discrete facts (simple knowledge)". i suppose the opposite of that is that knowledge exists as interrelated facts (?)
 
 ### Mekler, E.D. & Hornbaek, K. (2016). Momentary pleasure or lasting meaning? Distinguishing eudaimonic and hedonic user experiences. In *Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems*, CHI '16, 4509-4520, New York, NY, USA.
 
@@ -11,17 +22,17 @@
 - eudaemonic: accomplishment of personal goals, positive affect, meaning, and long-term importance.
 - eudaemonia: "efforts to align one's actions with one's values".
 
-The need to find or create meaning is powerful - see, e.g., Viktor Frankl
+The need to find or create meaning is powerful - see, e.g., Holocaust survivor Viktor Frankl:
 >A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the 'why' for his existence, and he will be able to bear almost any 'how'.
 
 Frankl, V. (2006). *Man's search for meaning*. Boston, MA: Beacon Press.
 
-But see Primo Levi:
+But see Holocaust survivor Primo Levi on being seen by a former teacher, who became a chemist for the Nazis, at Auschwtiz:
 > That look did not pass between two men; and if I knew how to explain fully the nature of that look, exchanged as it through the glass wall of an aquarium between two being who inhabit different worlds, I would also be able to explain the essence of the great insanity of the Third Reich.
 
 Levi, P. (1959). *If this is a man*. The Orion Press: New York, NY.
 
-Perhaps then designing for meaning is to design in a way that allows the creation of meaning. Or, perhaps it supports meaning by conveying that the experience is meaningful. Imagine handing a craftsmen a beautiful tool, to support her work and to acknowledge that it is worthy of a tool that is artistic in its form.
+Perhaps then designing for meaning is to design in a way that allows the creation of meaning. Or, perhaps it supports meaning by conveying that the experience is meaningful. Imagine handing a craftsmen a beautiful tool, to support her work and to acknowledge that her work is worthy of a tool that is artistic in its form.
 
 #### Hits
 - positive psychology distinguishes hedonia and eudaemonia by *motivation*
