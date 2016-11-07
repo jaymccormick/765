@@ -1,4 +1,48 @@
-### Ochsner, A. (2015). Lessons learned with girls, games and design. *GenderIT '15*, 24-31.
+### Scheiter, K. & Gerjets, P. (2007). Learner control in hypermedia environments. *Educational Psychology Review 19*(3), 285-307.
+
+#### Overview
+
+### Mekler, E.D. & Hornbaek, K. (2016). Momentary pleasure or lasting meaning? Distinguishing eudaimonic and hedonic user experiences. In *Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems*, CHI '16, 4509-4520, New York, NY, USA.
+
+#### Overview
+"Happiness is an ambiguous term." (p. 4510). That is certainly true.
+
+- eudaemonic and hedonic motives are not necessarily mutually exclusive
+- eudaemonic: accomplishment of personal goals, positive affect, meaning, and long-term importance.
+- eudaemonia: "efforts to align one's actions with one's values".
+
+The need to find or create meaning is powerful - see, e.g., Viktor Frankl
+>A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the 'why' for his existence, and he will be able to bear almost any 'how'.
+
+Frankl, V. (2006). *Man's search for meaning*. Boston, MA: Beacon Press.
+
+But see Primo Levi:
+> That look did not pass between two men; and if I knew how to explain fully the nature of that look, exchanged as it through the glass wall of an aquarium between two being who inhabit different worlds, I would also be able to explain the essence of the great insanity of the Third Reich.
+
+Levi, P. (1959). *If this is a man*. The Orion Press: New York, NY.
+
+Perhaps then designing for meaning is to design in a way that allows the creation of meaning. Or, perhaps it supports meaning by conveying that the experience is meaningful. Imagine handing a craftsmen a beautiful tool, to support her work and to acknowledge that it is worthy of a tool that is artistic in its form.
+
+#### Hits
+- positive psychology distinguishes hedonia and eudaemonia by *motivation*
+- description of measuring positive UX (based on needs for autonomy, competence, relatedness, self-actualization, stimulation, security and popularity)
+- empirically identifying eudaemonic user experiences:
+  - learning
+  - working toward a personal goal
+  - helping friends or family
+  - stability of future importance
+  - competence and self-assurance
+- empirically identifying hedonic user experiences:
+  - momentary pleasure
+  - little or no connection to a future goal
+- learning, helping and future importance
+- AttrakDiff as a good starting point, but noting that it was not developed to measure eudaemonia or hedonia, but rather hedonia and utilitarianism
+- people experience, e.g., learning a programming language differently (is it "fun", part of a self-actualizing, goal-seeking experience, or mandated by work?)
+
+#### Misses
+- not really a miss, but more of a question: is it possible to take these findings and design something to be "eudaemonic"? Even the authors raise this question, quoting Zimmerman: "the intended outcome of this approach - making someone feel they are becoming the person they desire to be in a specific role - is a very difficult thing to measure because it is nearly impossible to control for"
+
+### Ochsner, A. (2015). Lessons learned with girls, games and design. In *Proceedings of the Third Conference on GenderIT* GenderIT '15*, 24-31, New York, NY, USA.
 
 #### Overview
 Interesting early reference to research that gaming can improve "computational thinking". Since the reference seemed to indicate a general benefit to gaming of any kind, I read the cited article and found a narrower scope:
@@ -72,7 +116,7 @@ casual game design and "hardcore" or "traditional" games "form a valence"
 - mis-titled subsection (3.3.4 should be Flexibility, not Accessibility (which is discussed in a prior section))
 - "The rise of casual game industries indicates a transformation in games cultures..." what is that culture, and what is the change?
 
-### Crabtree, A. & Tolmie, P. (2016). A day in the life of thinkgs in the home. In *Proceedingsof the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing*, CSCW '16, pages 1738-1750, New York, NY, USA. ACM.
+### Crabtree, A. & Tolmie, P. (2016). A day in the life of things in the home. In *Proceedingsof the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing*, CSCW '16, pages 1738-1750, New York, NY, USA. ACM.
 
 #### Overview
 The authors' endeavor is "[O]pening up the methodical assemblage of things"
@@ -84,6 +128,7 @@ Summary: One can see how events flow in a space by observing the "methodical ass
 - the Internet of Things is "marked largely by the design of *individual things*", resulting in a "*fragemented ecology*" that ignores in its design framework the methodical assemblage of things.
 - designing for the home means (or should mean) designing for methodical assemblages of things from multiple categories
 - detecting the unique, local methodical assemblage of things is a challenge for algorithms, e.g. machine learning
+- seemed to pull off a research paper that used the authors as the research subjects
 
 #### Misses
 - too much *italics* (one randomly picked page had 9 instances of *italics*)
