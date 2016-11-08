@@ -1,3 +1,26 @@
+### Deci, E.L., Eghrari, H., Patrick, B.C., and Leone, D.R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality 62*(1): 119-142.
+
+#### Overview
+- **introjection**: self-regulation through "presured demanding of oneself", including "pressure, tension and anxiety", implicating one's self-worth and making "self-esteem... contingent upon an outcome".
+- **integration**: self-regulation by identifying "with the value of an activity" and accepting responsibility for doing it. doing the activity is "wholly volitionally because of its utility or importance for one's personal goals". there is no tension or conflict; consistency or coherence between the person's behavior and internal states is greater
+- 192 college students in 2x2x2 experiment. providing a rationale, acknowledging feelings, and conveying choice are relevant. not clear how the variables interact (as supportiveness of the context decreases, does introjection become more likely?). seems to be a threshold effect, i.e. it behaves like a step function, so once an environment is sufficiently supportive, integration occurs
+
+#### Hits
+- integrated internalization support:
+  - provide a meaningful rationale: a reason relevant to the person for why self-regulation of the activity would have personal utility, e.g. picking up your room helps you keep track of your toys
+  - acknowledge the behaver's perspective: acknowledge the conflict between the request and the discinclination to do it; alleviates tensio and helps person understand that the behavior can exist harmoniously with her inclinations. "i know that it's not fun for you to spend time picking up your room". acknowledging conflicting feelings helps facilitate self-determination
+  - convey autonomy: this is tricky. "shoulds", "musts", and "have tos" are "pressuring locution" that is likely to decrease intrinsic motivation. allow the person to feel free to choose
+  - research:
+    - personally identifying with the outcome of a task resulted in subjects' feeling antagonistic to self-determination and reduces intrinsic motivation
+    - school children who did schoolwork "because they should" and to avoid guilt experienced more school-related anxiety and coped poorly with failure; school children who did school work because it was "important for them to know" were internally motivated
+    - self-determined (integrated) style: school enjoyment, conceptual understanding, and proactive coping
+    - self-determination and integration are "natural, intrinsically motivated tendencies"
+    - with self-determination support, internalization is greater and integrated; without self-determination support, it is less and introjected
+    - parental autonomy support: positively affected childrens' self-determined forms of regulation school performance
+
+#### Misses
+- facilitating integration seems like a pretty crucial part of the paper, and it does receive some attention. but more explication of what 'autonomy-supporting' language is (or more in general how to get it right as a parent) would have been nice
+
 ### Deterding, S., Dixon, D., Khaled, R., and Nacke, L. (2001) From dame design elements to gamefulness: Defining "gamification". In *Proceeedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments*, MindTrek '11, pages 9-15, New York, NY, USA.
 
 #### Overview
