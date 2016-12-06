@@ -1,7 +1,50 @@
+### Jacob, M. G., Li, Y. T., Akingba, G. A., & Wachs, J. P. (2013). Collaboration with a robotic scrub nurse. *Communications of the ACM, 56*(5), 68-75.
+
+#### Overview
+Communication errors - failures, ignored requests, delays - major source of errors in operating rooms. Reduce cognitive load, and reduce instrument mistakes, by using a robotic nurse to provide tools and request tools from the doctor
+
+#### Hits
+- hand gestures to communicate with the robotic scrub nurse to request instruments. interesting work-around for a noisy environment and enables a purely visual robot
+- 97% recognition accuracy for commands seems much higher than the current operating room, based on the communication failure rates of around 30% the article quotes.
+- how well does a robot do compared to a close-knit team?
+- after training, the gestures are faster than verbal communication
+
+#### Misses
+- did the team try to do too much? rather than use a robot to give tools, isn't a better proximate goal to have the robot track what tools are in use (and ensure none are left in the patient)
+
+### D'Mello, S., & Calvo, R. A. (2013, April). Beyond the basic emotions: what should affective computing compute?. In *CHI'13 Extended Abstracts on Human Factors in Computing Systems* (pp. 2287-2294). ACM.
+
+#### Overview
+Basic emotions: anger, surprise, happiness, disgust (e.g., presence in primates, coherence in response systems, among other characteristics).
+Non-basic (secondary?): boredom, confusion, frustration.
+Non-basic emotions occur 5:1 to to basic emotions in this metastudy (limited to research projects completed in this specific lab)
+
+#### Hits
+- arguing for non-basic emotions over basic emotions in affective computing. that accords with my personal intuition that, for example, designing for delight is a bad design goal because delight as an emotion fades, whereas designing for focus and engagement can sustain those feelings
+- both questioning the data and analyzing why it is dependable: the analysis is based on only 5 studies, but it has 15,000 discrete emotional reports
+- "the tasks... can be decomposed into primitive[s]... such as reading text, providing responses, receiving feedback on actions"
+
+#### Misses
+- could have been more critical of designing for basic emotions
+
+### Vacca, R., Bromley, M., Leyrer, J., Sprung, M., & Homer, B. (2014, January). Designing games for emotional health. In *Learning, Education and Games* (pp. 123-140). ETC Press.
+
+#### Overview
+"[G]ood emotional health... suggests that an individual has the ability to manage [her] emotional responses in ways that contribute positively to [her] overall sense of well-being, rather than an absence of 'negative' emotions."
+
+#### Hits
+- social interaction and emotional health link
+- the Emotional Regulation Process Model (Gross & Barrett, 2011) that shows five opportunities to train emotions
+- Executive function helps moderate responses, resolve conflicting thoughts by (1) directing attention, (2) self-monitoring, (3) planning, (4) organizing, (5) remembering, (6) inhibiting impulsivity
+- emotional health as (1) adopting different perspectives, (2) relaxing the body, (3) nonjudgmentally experiencing the emotion, (4) redirecting attention
+
+#### Misses
+- would "collecting coins to correspond to the appropriate emotion" make a difference in emotional intelligence or regulation?
+
 ### Deci, E.L., Eghrari, H., Patrick, B.C., and Leone, D.R. (1994). Facilitating internalization: The self-determination theory perspective. *Journal of Personality 62*(1): 119-142.
 
 #### Overview
-- **introjection**: self-regulation through "presured demanding of oneself", including "pressure, tension and anxiety", implicating one's self-worth and making "self-esteem... contingent upon an outcome".
+- **introjection**: self-regulation through "pressured demanding of oneself", including "pressure, tension and anxiety", implicating one's self-worth and making "self-esteem... contingent upon an outcome".
 - **integration**: self-regulation by identifying "with the value of an activity" and accepting responsibility for doing it. doing the activity is "wholly volitionally because of its utility or importance for one's personal goals". there is no tension or conflict; consistency or coherence between the person's behavior and internal states is greater
 - 192 college students in 2x2x2 experiment. providing a rationale, acknowledging feelings, and conveying choice are relevant. not clear how the variables interact (as supportiveness of the context decreases, does introjection become more likely?). seems to be a threshold effect, i.e. it behaves like a step function, so once an environment is sufficiently supportive, integration occurs
 
