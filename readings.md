@@ -1,3 +1,50 @@
+### Zanatto, D., Patacchiola, M., Goslin, J., & Cangelosi, A. (2016, March). Priming Anthropomorphism: Can the credibility of humanlike robots be transferred to non-humanlike robots?. In *The Eleventh ACM/IEEE International Conference on Human Robot Interaction* (pp. 543-544). IEEE Press.
+
+#### Overview
+Study examined whether humans were influenced by human-like robots by analyzing whether they changed their answer for valuation to conform to the robot's valuation
+
+#### Hits
+- humans are more social with robots that are more human-like
+- the human-like iCub robot + social gaze (rather than fixed gaze) had a stronger effect on participants
+- humans can be 'primed' with a human-like robot, so that their subsequent activities with non-human-like robots showed no difference
+
+#### Misses
+- since this is a military article, it would have been interesting to hear about military experiences with robots, e.g. how people in the military begin to get attached to robots they work with despite the robots' being completely unhuman in appearance
+
+
+### Lemaignan, S., Fink, J., & Dillenbourg, P. (2014, March). The dynamics of anthropomorphism in robotics. In *Proceedings of the 2014 ACM/IEEE international conference on Human-robot interaction* (pp. 226-227). ACM.
+
+#### Overview
+- anthropomorphism is "ascrib[ing]" human characteristics to non-human entities, including "emotional states, motivations, [and] intentions"
+- this paper proposes a model of "anthropomorphic effects": instances of observable anthropomorphism: initialization, familiarization, stabilization
+
+#### Hits
+- the model:
+  1. initialization: seconds to hours, in which anthropomorphism increases from an initial state to a local maximum
+  2. familiarization: the human constructs a model of the robot's motivations and inclinations, to predict its behavior
+  3. stabilization: the stable level of anthropomorphism
+
+#### Misses
+- the model is really interesting; i would have liked either (1) a review or reference to other models, or (2) some more thought about measuring or implementing or using the model
+
+#### Misses
+
+### Davies, T., & Beeharee, A. (2012, May). The case of the missed icon: change blindness on mobile devices. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 1451-1460)*. ACM.
+
+#### Overview
+There are limits to attending to available visual information:
+- **Change blindness**: the failure to detect a clear and obvious change
+- **inattentional blindness**: change blindness without a visual disruption
+
+#### Hits
+- gradual changes on mobile screens are more likely to be missed; cluttering hampers change detection
+- **One-window drill-down**: design pattern to focus attention; key is to minimize interaction costs while maximizing probability of detecting changes
+
+#### Misses
+- would have been interesting to explore more outside of mobile interfaces
+
+#### Misses
+
 ### Jacob, M. G., Li, Y. T., Akingba, G. A., & Wachs, J. P. (2013). Collaboration with a robotic scrub nurse. *Communications of the ACM, 56*(5), 68-75.
 
 #### Overview
