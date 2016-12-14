@@ -1,3 +1,53 @@
+### Kuznetsov, S., & Paulos, E. (2010, April). UpStream: motivating water conservation with low-cost water flow sensing and persuasive displays. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1851-1860). ACM.
+
+#### Overview
+- i'm not sure that lack of access to potable water in, say, India, has anything to do with illiberal water consumption rates in, say, California. not that the goal of improving water conservation is frivolous by any means. just that it's not important for that reason.
+- installed water use sensors in public bathroom and in private shower; sensors provided feedback, which encouraged conversation and appeared to change behaviors
+
+#### Hites
+- really great conceptual overview of how they built the water sensor using an Arduino MVR microcontroller and continuously sampling the sound signal against the unique waveform of the water turning on
+- contrary to one participant's claim that his water use is already "reasonable", the sensor measured his water use as the highest water use of anyone in the study
+- the ambient display seemed to work better - it was simpler and more direct to show green or red than to show a number for how much water was consumed
+
+#### Misses
+- personal curiosity about water use "can lead to large-scale personal and societal change". really?
+- i doubt that long showers and excessive hand washing are a cause of "land subsistence", "reduced water flow in lakes and streams", and receding water levels.
+- water is not a "declining resource"; maybe potable water, or easy to clean water, is declining. but not water.
+- "sewer overflow" is a "byproduct of excessive water use" and "leads to pollution". i'm not sure how a sewer could overflow because of excessive water use.
+
+
+### Laschke, M., Hassenzahl, M., Diefenbach, S., & Tippkämper, M. (2011, May). With a little help from a friend: a shower calendar to save water. In *CHI'11 Extended Abstracts on Human Factors in Computing Systems* (pp. 633-646). ACM.
+
+#### Overview
+since bathing is around 1/3 of household water use, this calendar is intended to reduce water consumption for bathing. the calendar shows indvidual's water consumption, represented as a dot whose size was inversely proportional to water consumption.
+
+#### Hits
+- a "cornerstone" of behavior change is appropriate feedback. that's general, but certainly true and a good point to remember and focus on
+- using dot size inverse to water consumption; people were competing on dot sizes!
+
+#### Misses
+- not sure what distinguishes an ambient display from a non-ambient one.
+- "all in all" - what does that phrase mean?
+- uses the word "ambient" to describe displays it asserts are ambient. for example, their ambient shower calendar uses a dot as a "fuzzy, ambient representation"
+
+
+### Renals, S., Carletta, J., Edwards, K., Bourlard, H., Garner, P., Popescu-Belis, A., ... & Joscelyne, A. (2014, November). ROCKIT: roadmap for conversational interaction technologies. In *Proceedings of the 2014 Workshop on Roadmapping the Future of Multimodal Interaction Research including Business Opportunities and Challenges* (pp. 39-42). ACM.
+
+#### Overview
+- ROCKIT will "integrate the vision and innovation agendas of a broad range of stakeholders"
+- provides an interesting overview of opportunities for innovation. but more of an RFP than a roadmap, i.e. asks for innovation, perhaps proposes what innovation might do, but doesn't go beyond that.
+
+#### Hits
+- roadmapping identifies gaps and finds connections among diverse interests. in other words, "planning". still, good to think about aligning & connecting
+- enterprise knowledge management is on the map! nice to see the software my company specializes in appear there as an opportunity and goal. and perhaps there's a reason that enterprise software offers such an opportunity -  see Rettig, C. (2007). The trouble with enterprise software. *MIT Sloan management review, 49*(1), 21:
+> Back-office systems — including both software applications and the data they process — are a variegated patchwork of systems, containing 50 or more databases and hundreds of separate software programs installed over decades and interconnected by idiosyncratic, Byzantine and poorly documented customized processes.
+
+#### Misses
+- pretty repetitive in stating the goal of bringing stakeholders together.
+- uses a SWOT analysis - a strategic business case framework - to analyze an industry
+
+
+
 ### Zanatto, D., Patacchiola, M., Goslin, J., & Cangelosi, A. (2016, March). Priming Anthropomorphism: Can the credibility of humanlike robots be transferred to non-humanlike robots?. In *The Eleventh ACM/IEEE International Conference on Human Robot Interaction* (pp. 543-544). IEEE Press.
 
 #### Overview
