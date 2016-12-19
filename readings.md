@@ -1,6 +1,31 @@
 ### Groh, F. (2012). Gamification: State of the art definition and utilization. In *Proceedings of the 4th Seminar on Research Trends in Media Informatics*, (pp. 49-46).
 
+#### Overview
+interestingly, begins by describing Foursquare as a "success" because of the nature of its gamified design. Foursqaure may persist, but it has surely struggled despite its gamification (as the article later acknowledges)
+distinguishes "game" - ludus - and "playing" - paidia.
+gamified applications use "game elements" but are not "serious games... [which are] full-fledged games for non-entertainment purpose"
+
+#### Hits
+- interesting take on distinguishing gaming and playing on a parts-whole X-axis and gaming-playing Y-axis
+- good contrast between stack overflow and foursquare, observing that points and rewards (game elements) work as recognition of work that is inherently meangingful to the user.
+- nice though experiment (developed by another researcher) that a button that when pressed cleans all of the dishes might be a useful tool but would be a stultifying game. see also Progress Wars
+
+#### Misses
+- tacks on the idea of "flow" without really reflecting on what it would mean other than saying flow states are a good idea
+
 ### Lebeck, K., Kohno, T., & Roesner, F. (2016, February). How to Safely Augment Reality: Challenges and Directions. In *Proceedings of the 17th International Workshop on Mobile Computing Systems and Applications* (pp. 45-50). ACM.
+
+#### Overview
+fantastic exploration of the challenges of designing an augmented reality system and how traditional windowing program design - containing program state and interactions within a window - limit, and perhaps negate, the power of AR
+(one of my favorite articles of the semester)
+- i think a user-controlled "lens" approach would be interesting. it combines the window and AR elements. a user would place an AR lens in her view, and the AR lens would affect what she sees. there would need to be a centering (perhaps auto-centering) function in the program. but it would leave it to the user to decide what she sees. and she could stack AR lenses, so that if she wants, there would be a text message alert on top of her GPS lens.
+
+#### Hits
+- would different programs interact or interfere with each other's reality augmentation? imagine a cell phone displaying income messages on a car window, while a GPS app displays a superimposed route, and while the car OS displays a HUD for vehicle data, like vehicle speed
+- propose a new object-based model wherein in the OS has a "semantic understanding of certain objects". this allows for a rules-based approach to deciding what applications interact with, and even override, other applications
+
+#### Misses
+- too short! i'd love to see what further research these authors and other authors publish on this topic
 
 ### Orpwood, R., Chadd, J., Howcroft, D., Sixsmith, A., Torrington, J., Gibson, G., & Chalfont, G. (2010). Designing technology to improve quality of life for people with dementia: user-led approaches. *Universal Access in the Information Society 9*(3), 249-259.
 
