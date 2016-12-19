@@ -1,3 +1,59 @@
+### Groh, F. (2012). Gamification: State of the art definition and utilization. In *Proceedings of the 4th Seminar on Research Trends in Media Informatics*, (pp. 49-46).
+
+### Lebeck, K., Kohno, T., & Roesner, F. (2016, February). How to Safely Augment Reality: Challenges and Directions. In *Proceedings of the 17th International Workshop on Mobile Computing Systems and Applications* (pp. 45-50). ACM.
+
+### Orpwood, R., Chadd, J., Howcroft, D., Sixsmith, A., Torrington, J., Gibson, G., & Chalfont, G. (2010). Designing technology to improve quality of life for people with dementia: user-led approaches. *Universal Access in the Information Society 9*(3), 249-259.
+
+#### Overview
+argues for addressing "quality of life" as an explicit design goal, rather than focusing on safety or well-being of people with dementia and improving quality of life as a side effect
+
+#### Hits
+- developing a product design and development plan that focuses on researching quality of life for people with dementia and determining how to design a product that supports and improves it
+- reviewing 3 products developed with this plan, and especially discussing the unexpected shortcomings of designs, e.g. how the visible, circular speakers on the CD player were confusing to users with dementia
+- describing 'Wizard of Oz' technique for testing a product
+
+#### Misses
+- references 'grounded theory', and interesting sociological theory, but does not discuss why it was chosen or what it provided
+
+### Frauenberger, C. (2015, October). Disability and technology: A critical realist perspective. In *Proceedings of the 17th International ACM SIGACCESS Conference on Computers & Accessibility* (pp. 89-96). ACM.
+
+#### Overview
+argues that designers' conceptual and philosophical model of what disability is - purely physical, purely social - influences how they imagine and develop solutions in the form of assistive technology. that is certainly true; i wonder if, as the author argues, there is a unifying aspect of disability (presented by critical realism); or if, alternatively, there is no unifying disability philosophy, but rather a disability that depends on the circumstances of the person. disability studies distinguishes impairment - the physical or psychological trait - from disability - the imposed trait, like inaccessible buildings or "precarious positions in the labor market"
+
+#### Hits
+- thinking about a new dimension for assistive technology "AT" to address/solve problems in
+- describing a history of disability philosophies
+
+#### Misses
+- i'm not sure how 'outside the box' design is really that different from other participatory design methods
+
+### Rasmussen, M. K., Pedersen, E. W., Petersen, M. G., & Hornbæk, K. (2012, May). Shape-changing interfaces: a review of the design space and open research questions. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 735-744). ACM.
+
+#### Overview
+describes and explores "shape-changing interfaces", which transform their shape for input and output;
+
+#### Hits
+- interesting brief discussion of Swedish engineer Christopher Polhelm's mechanical alphabet
+- would the "surflex" be subsumed by 3D printing?
+- i would like a "shape changing laptop" that enables me to lift the screen well above the keyboard, so i don't have to sit so hunched over
+
+#### Misses
+- great catalog of some neat interfaces, but thin on discussion of why they solve a problem better than other solutions
+
+### Benford, S., Greenhalgh, C., Giannachi, G., Walker, B., Marshall, J., & Rodden, T. (2012, May). Uncomfortable interactions. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 2005-2014). ACM.
+
+#### Overview
+'uncomfortable interactions' cause physical or mental discomfort - and should be mild and consensually experienced (to the extent that people know, generally, something unpleasant is going to happen)
+flips the idea of designing for ease, comfort, and pleasure on its head; i really like an alternative take on designing for ease. imaging how boring life would be if there were no challenges!
+
+#### Hits
+- the idea of designing for the full range of emotions is clever
+- makes me wonder what circumstances would be good for uncomfortable interactions. perhaps behavior change, e.g. around smoking? bullying?
+- getting people to empathize difficult emotions is valuable
+
+#### Misses
+- a bit too far towards the 'artification' of design in the discussion of the swing and some of the performance art pieces
+
 ### Kuznetsov, S., & Paulos, E. (2010, April). UpStream: motivating water conservation with low-cost water flow sensing and persuasive displays. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1851-1860). ACM.
 
 #### Overview
